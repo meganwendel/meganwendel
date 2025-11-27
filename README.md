@@ -1,6 +1,6 @@
 ## Hi there 👋
 I’m a technical artist with a generalist background. Formally, I have a bachelor's in Computer Graphics and specialize in rigging, but I write scripts for just about anything. 
-Mainly using Maya's Command API in Python, but occasionally Maya MEL, Houdini VEX, but also dabble in Google App Scripts, iOS Scriptable JavaScript, and C#. 
+Mainly using Maya's Command API in Python (and lately some OpenMaya Python API), but occasionally Maya MEL, Houdini VEX, but also dabble in Google App Scripts, iOS Scriptable JavaScript, and C#. 
 <!--
 **meganwendel/meganwendel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
